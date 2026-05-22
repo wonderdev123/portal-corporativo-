@@ -1,0 +1,18 @@
+body {
+  background: #f4f6f9;
+}
+
+.sidebar {
+  height: 100vh;
+  border-right: 1px solid #ddd;
+}
+
+.nav-item {
+  padding: 8px;
+  cursor: pointer;
+}
+
+.nav-item:hover {
+  background: #e9ecef;
+  border-radius: 5px;
+}
